@@ -49,5 +49,6 @@ Technologies used in the project:
 *   CSS
 *   HTML
 *   Numpy
+*   MediaPipe
 *   Tensorflow
 *   OpenCV
