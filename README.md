@@ -12,7 +12,7 @@
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Here're some of the project's best features (to be implemented):
 
 *   1\. Real-time Posture Detection Harnessing advanced computer vision technology FitClub provides instant feedback on your workout posture. By utilizing webcams or compatible devices the application analyzes your movements ensuring you maintain correct form during exercises.
 *   2\. Personalized Workout Plans Receive customized workout plans tailored to your fitness goals skill level and specific requirements. Whether you're focused on muscle gain weight loss or rehabilitation FitClub adapts to create a comprehensive and effective workout routine tailored just for you.
@@ -49,4 +49,6 @@ Technologies used in the project:
 *   CSS
 *   HTML
 *   Numpy
+*   MediaPipe
 *   Tensorflow
+*   OpenCV
