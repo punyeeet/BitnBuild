@@ -50,3 +50,4 @@ Technologies used in the project:
 *   HTML
 *   Numpy
 *   Tensorflow
+*   OpenCV
