@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">The Fit Club</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="./src/assets/logo.png" alt="project-image"></p>
 
-## Available Scripts
+<p id="description">Welcome to FitClub your all-in-one fitness companion that redefines your approach to a healthier lifestyle. This cutting-edge web application seamlessly integrates real-time posture detection with personalized workout and dietary plans catering to fitness enthusiasts and specially-abled individuals alike. Whether you're perfecting your form or have unique fitness needs FitClub is here to guide you on your journey to a fitter healthier you.</p>
 
-In the project directory, you can run:
+<h2>🚀 Demo</h2>
 
-### `npm start`
+[https://thefitclubb.netlify.app/](https://thefitclubb.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  
+  
+<h2>🧐 Features</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Here're some of the project's best features:
 
-### `npm test`
+*   1\. Real-time Posture Detection Harnessing advanced computer vision technology FitClub provides instant feedback on your workout posture. By utilizing webcams or compatible devices the application analyzes your movements ensuring you maintain correct form during exercises.
+*   2\. Personalized Workout Plans Receive customized workout plans tailored to your fitness goals skill level and specific requirements. Whether you're focused on muscle gain weight loss or rehabilitation FitClub adapts to create a comprehensive and effective workout routine tailored just for you.
+*   3\. Dietary Guidance Fuel your fitness journey with personalized dietary plans. FitClub takes into account your nutritional needs preferences and dietary restrictions to provide a well-rounded nutrition plan. Achieve your goals by combining the right exercises with a balanced diet all conveniently accessible in one platform.
+*   4\. Accessibility for Specially-Abled Individuals Committed to inclusivity FitClub features adaptations to make fitness accessible for specially-abled individuals. Tailored workout and dietary plans consider unique considerations ensuring everyone can embark on a fitness journey that suits their abilities.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>🛠️ Installation Steps:</h2>
 
-### `npm run build`
+<p>1. Clone the repository to your local machine.</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+https://github.com/punyeeet/BitnBuild.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p>2. Install the required dependencies.</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm install
+```
 
-### `npm run eject`
+<p>3. Run the application locally.</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  
+  
+<h2>💻 Built with</h2>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Technologies used in the project:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*   React
+*   CSS
+*   HTML
+*   Numpy
+*   Tensorflow
